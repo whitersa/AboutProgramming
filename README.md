@@ -34,7 +34,7 @@ mdn提供了基本入门的教程，这里我想强调的是mdn提供的文档�
 #### [webpack](https://webpack.js.org/guides/getting-started/)
 
 #### [babel](https://babeljs.io/)
-在项目中使用es5+的特性，然后babel会负责将代码转化为es5以下
+在项目中使用es5+的特性，然后babel会负责将代码转化为es5以下。
 
 #### [vite](https://github.com/vitejs/vite)
 vite目前还没放出正式版，但值得关注。
@@ -46,7 +46,7 @@ vite目前还没放出正式版，但值得关注。
 
 # 社区
 ## [掘金](https://juejin.im/)
-掘金的技术性强一些
+掘金的技术性强一些。
 ## [知乎](https://www.zhihu.com/)
 懂的都懂，不懂的说了也不懂，不如不说 :dog: 。
 知乎也有很多讲技术的帖子，不过我主要关注前端的一些大佬，看看他们最近关注了前端的哪些变化。
@@ -72,4 +72,12 @@ http://nginx.org/en/docs/beginners_guide.html
 #### 官方提供的电子书
 http://nginx.org/en/books.html
 
+
+# 计算机通用
+
+## 书
+* 机械工业出版社
+    * 算法导论
+    * 深入理解计算机系统
+    * 设计模式
 
