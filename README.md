@@ -1,6 +1,6 @@
 
-本文档是自己在回顾和探索程序员之路过程中一些比较有用的部分作为整理，以后可能会整理到自己的网站（在做了在做了 -> mkdir）
-因为资源一抓一大把，所以选择一些比较可靠权威的资源。
+本文档是自己在回顾和探索程序员之路过程中一些比较有用的部分的整理，以后可能会放到自己的网站（在做了 -> mkdir）
+因为资源一抓一大把，这里选择一些比较可靠权威的资源。
 
 # 前端部分
 ## HTML、CSS、JavaScript
@@ -43,19 +43,25 @@ vite目前还没放出正式版，但值得关注。
 
 # 社区
 ## [掘金](https://juejin.im/)
+掘金的技术性强一些
+## [知乎](https://www.zhihu.com/)
+懂的都懂，不懂的说了也不懂，不如不说 :dog: 。知乎也有讲技术的，我用来关注前端的一些大佬，看看他们最近关注了前端的哪些变化。
 
-# [WASM](https://webassembly.org/)
-wasm远景不错，现阶段还需观察。其他语言我就暂时不写了。c++都是大学学的了，脑子里只剩一些基本的概念了。最近简单地了解了一下rust。
+# WASM
+[WASM](https://webassembly.org/)远景不错，现阶段还需观察。其他语言我就暂时不写了。c++都是大学学的了，脑子里只剩一些基本的概念了。最近简单地了解了一下rust。
 ## rust 
 #### [官网文档](https://doc.rust-lang.org/book/title-page.html)
 
 # 服务器相关
+## vps
+想买主机推荐vultr，个人买了hostswinds但是总是有各种问题。
+
 ## nginx
-[nginx官方文档链接](http://nginx.org/en/docs/)，以下是安装和基本使用链接
-#### install 
+[nginx官方文档链接](http://nginx.org/en/docs/)
+#### 安装
 http://nginx.org/en/docs/install.html
 
-#### beginner_guide
+#### 新手起步
 http://nginx.org/en/docs/beginners_guide.html
 
 #### 官方提供的电子书
